@@ -1,0 +1,17 @@
+body {
+  box-sizing: border-box;
+}
+.grid-row {
+  display: flex;
+  justify-content: center;
+}
+
+.grid-square {
+  height: 30px;
+  width: 30px;
+  border: 2px solid black;
+}
+
+.mousedOver {
+  background-color: black;
+}
